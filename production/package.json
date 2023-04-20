@@ -1,0 +1,34 @@
+{
+  "name": "colorium",
+  "version": "1.1.0",
+  "description": "Lightweight terminal styling",
+  "main": "colorium.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "exports": {
+    "import": "./colorium.js",
+    "require": "./colorium.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/colorium.js.git"
+  },
+  "keywords": [
+    "colorium",
+    "colors",
+    "color",
+    "colour",
+    "colours",
+    "terminal",
+    "terminal-styling",
+    "terminal-colors"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/colorium.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/colorium.js#readme"
+}
